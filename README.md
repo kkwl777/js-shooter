@@ -11,7 +11,7 @@ Fullstack 2D shooting game with a movable character and various enemy/item class
   -Multiple projectiles; Shotgun  \
   -Multiple Weapons\
   -Enemy Health Bars  \
-  -Map change \
+  -Map change 
 
 
 ![Screenshot](card.png)
