@@ -12,7 +12,7 @@ Multiple projectiles; Shotgun
 Multiple Weapons
 Enemy Health Bars  
 Map change 
-![Screenshot](logo.png)
+![Screenshot](card.png)
 
 ![Screenshot](ss1.png)
 
