@@ -4,7 +4,7 @@ Fullstack 2D shooting game with a movable character and various enemy/item class
 -Sign up and register components
 -SQL DB keeps track of user scores 
 
-Additional Features: 
+# Additional Features: 
 
   -Obstacles can be destroyed
   -Multiple types of AI, and multiple opponents
