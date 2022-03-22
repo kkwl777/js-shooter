@@ -1,0 +1,10 @@
+Additional Features: 
+
+Obstacles can be destroyed
+Multiple types of AI, and multiple opponents
+Multiple projectiles; Shotgun 
+Multiple Weapons
+Enemy Health Bars 
+CSS Features 
+Map change 
+
