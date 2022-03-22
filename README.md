@@ -2,7 +2,7 @@
 Fullstack 2D shooting game with a movable character and various enemy/item classes\
 -includes CRUD user system \
 -Sign up and register components\
--SQL DB keeps track of user scores \
+-SQL DB keeps track of user scores 
 
 # Additional Features: 
 
