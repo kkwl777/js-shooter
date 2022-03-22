@@ -1,5 +1,6 @@
 # js-shooter
 Fullstack 2D shooting game with user account system and various enemy/item classes\
+-No external libraries; vanillia HTML/CSS/JS
 -includes CRUD user system \
 -Sign up and register components\
 -SQL DB keeps track of user scores 
