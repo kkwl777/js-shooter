@@ -6,12 +6,12 @@ Fullstack 2D shooting game with a movable character and various enemy/item class
 
 Additional Features: 
 
-  Obstacles can be destroyed
-  Multiple types of AI, and multiple opponents
-  Multiple projectiles; Shotgun 
-  Multiple Weapons
-  Enemy Health Bars  
-  Map change 
+  -Obstacles can be destroyed
+  -Multiple types of AI, and multiple opponents
+  -Multiple projectiles; Shotgun 
+  -Multiple Weapons
+  -Enemy Health Bars  
+  -Map change 
 
 
 ![Screenshot](card.png)
